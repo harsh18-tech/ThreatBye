@@ -10,6 +10,6 @@ export default defineConfig({
 
   preview: {
     host: '0.0.0.0',
-    allowedHosts: ['threatbye-abc123.onrender.com'],
+allowedHosts: ['threatbye.onrender.com'],
   },
 })
